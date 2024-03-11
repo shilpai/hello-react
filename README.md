@@ -21,4 +21,11 @@ return (
 
 export default UserClass;
 
-- How to use props in function component
+- How to use props in a function component
+- life cycle methods
+- The three phases are: Mounting, Updating, and Unmounting.
+  - Contractor()
+  - render()
+  - componentDidMount()
+  - 
+  - 
